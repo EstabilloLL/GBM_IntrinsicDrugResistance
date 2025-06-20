@@ -4,11 +4,11 @@ Files available:
 
 - Compiled RNA-seq count matrix (.xlsx)
   - Contains raw read counts, representing the number of sequencing reads mapped to a particular gene
-  - Rows as genes and columns as samples
+  - Rows as genes and columns as GSC cultures
     
 - Compiled global CpG island methylation matrix (.xlsx)
   - Contains raw methylation values (%), calculated as the fraction of methylated reads over total reads (beta value) at a specific CpG island
-  - Rows as CpG islands and columns as samples
+  - Rows as CpG islands and columns as GSC cultures
     
 - Raw global CpG island methylation data for each individual sample (.bed files)
   - Contains raw methylation values (%) of each CpG site within CpG islands for each sample
